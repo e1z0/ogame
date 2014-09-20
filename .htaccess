@@ -1,0 +1,8 @@
+AddDefaultCharset UTF-8
+
+#php_value error_reporting 0
+
+<Files *.tpl>
+order allow,deny
+deny from all
+</Files>
